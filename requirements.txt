@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 flask
 flask-cors
 google-generativeai
 gunicorn
-=======
-flask
-flask-cors
-google-generativeai
-gunicorn
->>>>>>> d673580 (Initial commit)
